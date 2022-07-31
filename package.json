@@ -1,0 +1,25 @@
+{
+  "name": "etl-pipeline",
+  "version": "1.0.0",
+  "description": "Data brokering with Node.js",
+  "main": "pipeline.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ysharma-dev/node-etl-pipeline.git"
+  },
+  "keywords": [
+    "node",
+    "etl",
+    "data",
+    "brokering"
+  ],
+  "author": "Yugam Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ysharma-dev/node-etl-pipeline/issues"
+  },
+  "homepage": "https://github.com/ysharma-dev/node-etl-pipeline#readme"
+}
