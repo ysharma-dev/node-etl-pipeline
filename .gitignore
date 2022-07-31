@@ -1,3 +1,6 @@
+# Ignore the captured output file of the ETL pipeline
+output.json
+
 # Logs
 logs
 *.log
